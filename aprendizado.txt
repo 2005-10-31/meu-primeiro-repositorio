@@ -1,0 +1,1 @@
+"Aprendi a criar um reposit¢rio no GitHub, clonar para meu computador, adicionar arquivos, fazer commits e enviar para o reposit¢rio remoto usando Git." 
